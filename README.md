@@ -22,6 +22,7 @@
 <!-- ここにサイトの原案を書く -->
 # Structure
 <div class = "Structure", align = "left">
+
 ```
     ━ IT-LIBRARY
         ┣━ README.md
