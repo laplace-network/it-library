@@ -20,6 +20,33 @@
 </div>
 
 <!-- ここにサイトの原案を書く -->
+# Structure
+<div class = "Structure", align = "left">
+```
+    ━ IT-LIBRARY
+        ┣━ README.md
+        ┣━ main.html
+        ┣━ css
+        ┃   ┣━ main.css
+        ┃   ┗━ [more...]
+        ┣━ font
+        ┃   ┣━ main.ttf
+        ┃   ┗━ [more...]
+        ┣━ html
+        ┃   ┣━ dashboard.html
+        ┃   ┗━ [more...]
+        ┣━ images
+        ┃   ┣━ main
+        ┃   ┃   ┣━ welcome.png
+        ┃   ┃   ┗━ [more...]
+        ┃   ┗━ [more...]
+        ┣━ js
+            ┣━ main.js
+            ┗━ [more...]
+```
+
+
+
 <div class = "Feature", align = "center">
 
 # Feature
